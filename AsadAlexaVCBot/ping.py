@@ -1,4 +1,4 @@
-# code by Asad Ali Owner Off Jankari Ki Duniya Youtube Channel
+# code by Asad Ali Owner Off Navya Ki Duniya Youtube Channel
 
 
 import os
@@ -56,5 +56,5 @@ async def help(client, m: Message):
 
 @Client.on_message(contact_filter & filters.command(['repo'], prefixes=f"{HNDLR}"))
 async def repo(client, m: Message):
-   REPO = f"**🛠 IF YOU WANT REPO 🛠** \n\n**ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ** [ᴏɴᴡᴇʀ](t.me/Dr_Asad_Ali)\n**ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴍʏ ᴘʀᴏᴊᴇᴄᴛ ᴛʜᴇ ɢɪᴠᴇ ᴍᴇ ʜᴇᴀʀᴛ ᴀɴᴅ ᴊᴏɪɴ** [ʜᴇᴀʀᴛ](t.me/Give_Me_Heart) [ᴜᴘᴅᴀᴛᴇs](t.me/AsadSupport) [ᴊᴏɪɴ](t.me/Shayri_Music_Lovers)"
+   REPO = f"**🛠 IF YOU WANT REPO 🛠** \n\n**ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ** [ᴏɴᴡᴇʀ](t.me/Sushil8xOp)\n**ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴍʏ ᴘʀᴏᴊᴇᴄᴛ ᴛʜᴇ ɢɪᴠᴇ ᴍᴇ ʜᴇᴀʀᴛ ᴀɴᴅ ᴊᴏɪɴ** [ʜᴇᴀʀᴛ](t.me/Give_Me_Heart) [ᴜᴘᴅᴀᴛᴇs](t.me/AsadSupport) [ᴊᴏɪɴ](t.me/Shayri_Music_Lovers)"
    await m.reply(REPO)
